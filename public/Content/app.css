@@ -1,0 +1,25 @@
+/* Simranjeet Kaur 301095894 02-28-2021 */
+
+
+
+
+.containerAbout img{
+    width: 120px;
+    float:left;
+    margin-right: 50px;
+  }
+.containerAbout p {
+    display: inline-flex;
+
+    width: 50%;
+  }
+
+  /* main container */
+  .container a{
+    color: white;
+    text-decoration: none;
+  }
+  .container a:hover{
+    color:lightgray;
+    text-decoration: none;
+  }
